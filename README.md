@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm JABER
 
-<!--
-**H4ck3rOn3/H4ck3rOn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Security Researcher | Bug Bounty Hunter (in progress)
+🧠 Interested in Web Security, Recon, and Vulnerability Analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About Me
+
+I focus on understanding how systems break and how they can be secured.
+Currently building my skills in real-world vulnerability discovery and offensive security.
+
+---
+
+## ⚔️ Areas of Interest
+
+* Web Application Security
+* Bug Bounty Hunting
+* Reconnaissance & Enumeration
+* API Security
+* Linux & Networking
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Linux (Kali, Arch)
+* Burp Suite
+* Nmap
+* Git & GitHub
+* Scripting (Bash, Python, JS)
+
+---
+
+## 📂 Current Focus
+
+* Practicing on labs (PortSwigger, HTB, TryHackMe)
+* Writing small custom scripts for automation
+* Learning real-world attack methodologies
+
+---
+
+## 🚧 Projects
+
+> Coming soon — building custom security tools & automation scripts.
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/Hack3rOn3
+
+---
+
+⚠️ All activities are conducted in legal and authorized environments only.
